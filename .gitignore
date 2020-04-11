@@ -1,0 +1,27 @@
+target/
+vn/
+*.swp
+*.iml
+.gradle
+/local.properties
+.idea/
+*.ipr
+*.iml
+*.iws
+/build
+.project
+.settings/
+.classpath
+*.ipr
+*.iws
+*.pyc
+.DS_Store
+*.yml
+#.idea/
+*/.DS_Store
+*.log
+*.txt
+#add by tuyf
+MANIFEST.MF
+.idea/libraries/
+*.json
